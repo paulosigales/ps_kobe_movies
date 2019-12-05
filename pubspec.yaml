@@ -1,0 +1,30 @@
+name: ps_kobe_movies
+description: Upcoming movies!
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  http: ^0.12.0+2
+  cached_network_image: ^1.1.3
+  jiffy: ^2.1.2
+  youtube_player_flutter: ^6.0.3+2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: fonts/OpenSans-Regular.ttf
+        - asset: fonts/OpenSans-Light.ttf
+          weight: 300
