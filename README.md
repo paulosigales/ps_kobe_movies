@@ -13,7 +13,9 @@ This project is a test application for kobe.io
 * youtube_player_flutter: ^6.0.3+2 - library to load and play youtube videos
 
 
-![List](https://github.com/paulosigales/ps_kobe_movies/development/screenshots/movies_01_list.PNG)
+![List](https://github.com/paulosigales/ps_kobe_movies/blob/development/screenshots/movies_01_list
+.jpg)
 
-![Detail](https://github.com/paulosigales/ps_kobe_movies/development/screenshots/movies_02_detail
-.PNG)
+![Detail](https://github.com/paulosigales/ps_kobe_movies/blob/development/screenshots/movies_02_detail
+.jpg)
+
